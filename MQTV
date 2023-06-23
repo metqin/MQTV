@@ -196,52 +196,62 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs7q70SK/20230622_154416.png" group-title="OLAHRAGA", FIGHT SPORTS
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7ghRLS/20230614-123832.png" group-title="HIBURAN", CITRA BIOSKOP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7ghRLS/20230614-123832.png" group-title="MOVIE", CITRA BIOSKOP
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzpn9j9s/20230618-053654.png" group-title="HIBURAN", CITRA DRAMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzpn9j9s/20230618-053654.png" group-title="MOVIE", CITRA DRAMA
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqt2WrSB/20230618-053806.png" group-title="HIBURAN", DUNIA SINEMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqt2WrSB/20230618-053806.png" group-title="MOVIE", DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDHt4MZM/20230623-051449.png" group-title="HIBURAN", AXN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDHt4MZM/20230623-051449.png" group-title="MOVIE", AXN
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cgsz5sY/20230623-051517.png" group-title="HIBURAN", KIX 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cgsz5sY/20230623-051517.png" group-title="MOVIE", KIX
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJMWNJv/20230618_125316.png" group-title="HIBURAN", TVN 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJMWNJv/20230618_125316.png" group-title="MOVIE", TVN
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnfbgK1w/20230618_053855.png" group-title="HIBURAN", TVN MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnfbgK1w/20230618_053855.png" group-title="MOVIE", TVN MOVIES 
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNDhWh6R/20230618-125413.png" group-title="HIBURAN", MY FAMILY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR5pWDdJ/20230623-123452.png" group-title="MOVIE", GALAXY
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT35LWWv/20230623-123756.png" group-title="MOVIE", GALAXY PREMIUM
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNDhWh6R/20230618-125413.png" group-title="MOVIE", MY FAMILY CHANNEL
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4N4h75D/20230618-062729.png" group-title="HIBURAN", MY CINEMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4N4h75D/20230618-062729.png" group-title="MOVIE", MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZcfBfvq/20230618-055802.png" group-title="HIBURAN", MY CINEMA ASIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZcfBfvq/20230618-055802.png" group-title="MOVIE", MY CINEMA ASIA
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x85MkP77/20230618-055946.png" group-title="HIBURAN", MY CINEMA EUROPE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x85MkP77/20230618-055946.png" group-title="MOVIE", MY CINEMA EUROPE
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XnMJK2M/20230618-063625.png" group-title="HIBURAN", K+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XnMJK2M/20230618-063625.png" group-title="MOVIE", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Z0WcZy/20230619-154427.png" group-title="HIBURAN", GEM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Z0WcZy/20230619-154427.png" group-title="MOVIE", GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2j9prnrQ/20230619-154459.png" group-title="HIBURAN", THRILL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2j9prnrQ/20230619-154459.png" group-title="MOVIE", THRILL
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
