@@ -281,12 +281,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz2vWGQ0/20230625-121954.png" group-title="MOVIE", CELESTIAL MOVIES INDONESIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwfNhWsQ/20230625_121909.png" group-title="MOVIE", CELESTIAL MOVIES INDONESIA
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH39X7R7/20230520-092336.jpg" group-title="MOVIE", CELESTIAL CLASSIC MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz2vWGQ0/20230625_121954.png" group-title="MOVIE", CELESTIAL CLASSIC MOVIES
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
