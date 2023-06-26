@@ -162,7 +162,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pz6nv9k/20230618-142324.png" group-title="OLAHRAGA", VIX
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzBGXMGh/20230612-202218.png" group-title="OLAHRAGA", CCTV 5 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzBGXMGh/20230612-202218.png" group-title="OLAHRAGA", CCTV 5
 https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRzfX6XM/20230612-195039.png" group-title="OLAHRAGA", MOTORVISION TV
@@ -333,8 +333,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsXcL17c/20230625-153054.png" group-title="PENGETAHUAN", NATIONAL GEOGRAPHIC WILD
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P778JZ7/20230607-100739.png" group-title="BERITA", BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz3LHwts/20230626-171219.png" group-title="BERITA", BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
