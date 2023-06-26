@@ -348,7 +348,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5zPHPCt/20230626-171426.png" group-title="BERITA", IDX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL8sqWDZ/20230626-210747.png" group-title="BERITA", IDX
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY3pFkbW/20230626-171457.png" group-title="BERITA", BERITA RTM
