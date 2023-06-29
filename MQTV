@@ -162,7 +162,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pz6nv9k/20230618-142324.png" group-title="OLAHRAGA", VIX
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzBGXMGh/20230612-202218.png" group-title="OLAHRAGA", CCTV 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzBGXMGh/20230612-202218.png" group-title="OLAHRAGA", CCTV 5 HD
 https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRzfX6XM/20230612-195039.png" group-title="OLAHRAGA", MOTORVISION TV
@@ -392,3 +392,48 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4h3kmrj/20230626-204204.png" group-title="BERITA", CCTV-4
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zwgyNWY/20230629-173920.png" group-title="GAYA HIDUP", CITRA ENTERTAINMENT
+http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9080LPMz/20230629-174052.png" group-title="GAYA HIDUP", LIFESTYLE CHANNEL
+http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMT3549S/20230629-174147.png" group-title="GAYA HIDUP", AFN
+http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXVn1FFt/20230629-174249.png" group-title="GAYA HIDUP", BIZNET LIFESTYLE
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMtKFfSG/20230629-174334.png" group-title="GAYA HIDUP", LIFETIME
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL9h1SKv/20230629-174437.png" group-title="GAYA HIDUP", MNC ENTERTAINMENT
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxYKmD9S/20230629-174518.png" group-title="GAYA HIDUP", MNC INFOTAINMENT
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTyJJP2d/20230629-174743.png" group-title="GAYA HIDUP", VISION PRIME
+https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5BpGMMw/20230629-174613.png" group-title="GAYA HIDUP", LIFESTYLE FASHION
+https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vD6KPB/20230629-174822.png" group-title="GAYA HIDUP", ARIRANG KOREA http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R05FpZM1/20230629-174921.png" group-title="GAYA HIDUP", TLC TV
+http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGRvkg1X/20230629-175014.png" group-title="GAYA HIDUP", THE FOOD NETWORK
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
