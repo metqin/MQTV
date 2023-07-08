@@ -255,11 +255,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMtKFfSG/20230629-174334.png" group-title="FILM", LIFETIME
-https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgDMp6mb/20230625-061555.png" group-title="FILM", ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
@@ -385,54 +380,59 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4h3kmrj/20230626-204204.png" group-title="BERITA", CCTV-4
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zwgyNWY/20230629-173920.png" group-title="GAYA HIDUP", CITRA ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zwgyNWY/20230629-173920.png" group-title="GAYA HIDUP & HIBURAN", CITRA ENTERTAINMENT
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvV269VB/20230701-203701.png" group-title="GAYA HIDUP", OK TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvV269VB/20230701-203701.png" group-title="GAYA HIDUP & HIBURAN", OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9080LPMz/20230629-174052.png" group-title="GAYA HIDUP", LIFESTYLE CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9080LPMz/20230629-174052.png" group-title="GAYA HIDUP & HIBURAN", LIFESTYLE CHANNEL
 http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMT3549S/20230629-174147.png" group-title="GAYA HIDUP", AFN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMT3549S/20230629-174147.png" group-title="GAYA HIDUP & HIBURAN", AFN
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXVn1FFt/20230629-174249.png" group-title="GAYA HIDUP", BIZNET LIFESTYLE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXVn1FFt/20230629-174249.png" group-title="GAYA HIDUP & HIBURAN", BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL9h1SKv/20230629-174437.png" group-title="GAYA HIDUP", MNC ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMtKFfSG/20230629-174334.png" group-title="GAYA HIDUP & HIBURAN", LIFETIME
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL9h1SKv/20230629-174437.png" group-title="GAYA HIDUP & HIBURAN", MNC ENTERTAINMENT
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxYKmD9S/20230629-174518.png" group-title="GAYA HIDUP", MNC INFOTAINMENT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxYKmD9S/20230629-174518.png" group-title="GAYA HIDUP & HIBURAN", MNC INFOTAINMENT
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTyJJP2d/20230629-174743.png" group-title="GAYA HIDUP", VISION PRIME
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTyJJP2d/20230629-174743.png" group-title="GAYA HIDUP & HIBURAN", VISION PRIME
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5BpGMMw/20230629-174613.png" group-title="GAYA HIDUP", LIFESTYLE FASHION
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5BpGMMw/20230629-174613.png" group-title="GAYA HIDUP & HIBURAN", LIFESTYLE FASHION
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJMWNJv/20230618_125316.png" group-title="GAYA HIDUP", TVN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJMWNJv/20230618_125316.png" group-title="GAYA HIDUP & HIBURAN", TVN
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vD6KPB/20230629-174822.png" group-title="GAYA HIDUP", ARIRANG KOREA http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vD6KPB/20230629-174822.png" group-title="GAYA HIDUP & HIBURAN", ARIRANG KOREA http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R05FpZM1/20230629-174921.png" group-title="GAYA HIDUP", TLC TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R05FpZM1/20230629-174921.png" group-title="GAYA HIDUP & HIBURAN", TLC TV
 http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGRvkg1X/20230629-175014.png" group-title="GAYA HIDUP", THE FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGRvkg1X/20230629-175014.png" group-title="GAYA HIDUP & HIBURAN", THE FOOD NETWORK
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
