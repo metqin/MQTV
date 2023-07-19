@@ -1,9 +1,7 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tghsLHGX/20230606-100615.png" group-title="NASIONAL", TVRI
-https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -73,10 +71,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPCLmSVz/20230625_145211.png" group-title="NASIONAL", TVRI WORLD
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPCLmSVz/20230625-145211.png" group-title="NASIONAL", TVRI SPORT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jhq1N7WB/20230606-122057.png" group-title="NASIONAL", MOJI
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
