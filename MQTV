@@ -21,7 +21,7 @@ http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRb52BLc/20230606-120452.png" group-title="NASIONAL", RCTI
-https://liveaneviadev.mncnow.id/live/eds/RCTI-2/sa_hls/RCTI-2.m3u8
+https://liveaneviadev.mncnow.id/live/eds/rcti-dd/sa_hls/rcti-dd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwG0XKZq/20230606-120623.png" group-title="NASIONAL", SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
@@ -88,10 +88,8 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxSN8p7x/20230613-161423.png" group-title="NASIONAL", GARUDA TV
 http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P778JZ7/20230607-100739.png" group-title="NASIONAL", BERITA SATU
-https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+http://edge.linknetott.swiftserve.com/channelgroup5/cg547production/ch360/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
