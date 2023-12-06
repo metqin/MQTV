@@ -79,7 +79,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCnCp81q/20230606-122149.png" group-title="NASIONAL", MENTARI TV
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298546.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298546
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyHm0z2v/20230606-122257.png" group-title="NASIONAL", MAGNA CHANNEL
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
@@ -139,10 +139,10 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/CM4nStns/20230607-193603.png" group-tit
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N7HFC3H/20230607-193636.png" group-title="OLAHRAGA", BEIN SPORTS 2
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/145.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2985
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNDJTQc/20230607-193701.png" group-title="OLAHRAGA", BEIN SPORTS 3
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/146.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298506
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGFRGgpH/20230608-171538.png" group-title="OLAHRAGA", FOX SPORT 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -204,10 +204,10 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://mangga-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7ghRLS/20230614-123832.png" group-title="FILM", CITRA BIOSKOP
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzpn9j9s/20230618-053654.png" group-title="FILM", CITRA DRAMA
-http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/264748
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqt2WrSB/20230618-053806.png" group-title="FILM", DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -253,7 +253,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Z0WcZy/20230619-154427.png" group-title="FILM", GEM
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298533
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
