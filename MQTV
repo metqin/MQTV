@@ -411,7 +411,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh2z3cpG/20230625-102611.png" group-title="FILM", HITS
-https://cempedak-live-cdn.mncnow.id/live/eds/Hits/sa_dash_vmx/Hits.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/HitsHD/sa_dash_vmx/HitsHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -604,13 +604,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJMWNJv/20230618_125316.png" group-title="GAYA HIDUP & HIBURAN", TVN
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vD6KPB/20230629-174822.png" group-title="GAYA HIDUP & HIBURAN", ARIRANG KOREA http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R05FpZM1/20230629-174921.png" group-title="GAYA HIDUP & HIBURAN", TLC TV
 http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGRvkg1X/20230629-175014.png" group-title="GAYA HIDUP & HIBURAN", THE FOOD NETWORK
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vD6KPB/20230629-174822.png" group-title="GAYA HIDUP & HIBURAN", ARIRANG
+http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
