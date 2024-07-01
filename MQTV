@@ -93,7 +93,7 @@ https://okegas.transvision.workers.dev/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyHm0z2v/20230606-122257.png" group-title="NASIONAL", MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGQQxvHx/20240701-163448.png" group-title="NATIONAL", BN CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGQQxvHx/20240701-163448.png" group-title="NASIONAL", BN CHANNEL
 https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf55QXvC/20230606-122359.png" group-title="NASIONAL", CNBC INDONESIA
@@ -289,6 +289,10 @@ http://iptvtree.net:8080/F14995/a84c0963/264748
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px7gwHFF/20240701-181855.png" group-title="FILM", FLIK
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
