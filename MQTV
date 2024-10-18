@@ -72,8 +72,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC612fxS/20230606-121156.png" group-title="NASIONAL", INEWS
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzpXxwnq/20230606-121402.png" group-title="NASIONAL", NET.
-https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -108,6 +111,7 @@ https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyHm0z2v/20230606-122257.png" group-title="NASIONAL", MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGQQxvHx/20240701-163448.png" group-title="NASIONAL", BN CHANNEL
 https://flv.intechmedia.net/live/ch112.m3u8
 
@@ -121,8 +125,9 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHhrLMJ2/20230606-122536.png" group-title="NASIONAL", VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTpN6x1r/20230607-100713.png" group-title="NASIONAL", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxSN8p7x/20230613-161423.png" group-title="NASIONAL", GARUDA TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
