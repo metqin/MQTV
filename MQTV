@@ -180,14 +180,23 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSport
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.postimg.cc/sfQ3M5SD/20240622_182812.png", SPORTSTARS 4 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/CM4nStns/20230607-193603.png" group-title="OLAHRAGA", BEIN SPORTS 1
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/144.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM4nStns/20230607-193603.png" group-title="OLAHRAGA", BEIN SPORTS 1
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N7HFC3H/20230607-193636.png" group-title="OLAHRAGA", BEIN SPORTS 2
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2985
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNDJTQc/20230607-193701.png" group-title="OLAHRAGA", BEIN SPORTS 3
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298506
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGFRGgpH/20230608-171538.png" group-title="OLAHRAGA", FOX SPORT 1
 https://webhdrunns.mizhls.ru/lb/premium39/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -225,14 +234,17 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=6786&type=dash
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMZr4YyK/20230622_124348.png" group-title="OLAHRAGA", USEE PRIME
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxYTLtZQ/20230618-142255.png" group-title="OLAHRAGA", PREMIERE SPORT
-http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pz6nv9k/20230618-142324.png" group-title="OLAHRAGA", VIX
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzBGXMGh/20230612-202218.png" group-title="OLAHRAGA", CCTV 5 HD
-https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRzfX6XM/20230612-195039.png" group-title="OLAHRAGA", MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
